@@ -57,6 +57,12 @@ de la figura 3.1, obteniendo los valores de los voltajes de nodo. Anote los resu
 
 **Resultados de la simulación**
 
+**voltaje** 
+
+![image](https://user-images.githubusercontent.com/85126275/122120885-958fb380-cdf0-11eb-9305-a32fb0dafdc2.png)
+
+corriente
+
 ![image](https://user-images.githubusercontent.com/85126275/122105576-91f33100-cdde-11eb-9edb-fea0d07e7782.png)
 
 3.5.4. Compare los valores de la tabla 3.1 y realice sus conclusiones.
@@ -65,9 +71,9 @@ Tabla 3.1
 
 |**NODO**| **RESULTADOS ANALITICOS** | **RESULTADOS SIMULADORES**|
 |:--: | :---: | :---: | 
-| 1   |       | 3.63 mA  |
-| 2   |       | 93.7uA |
-|  3  |       | 1.55 mA   | 
+| 1   |       |11.3 V  |
+| 2   |       | 3.39 V |
+|  3  |       | 3.89 V  | 
 
 
 ### 5.  VIDEO
