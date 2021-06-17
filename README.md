@@ -7,7 +7,13 @@ Integrantes: Chachalo Mayerli, Mensias Adrian, Rosero Andres
 
 **Objetivo general** 
 
+Comprobar experimental y analíticamente el análisis de nodosd en los diferentes circuitos eléctricos y con ello realizar las mediciones pertienentes para encontrar el amperaje de dicho circuito..
+
 **Objetivos específicos**
+
+- Aplicar em método de superposición en conjunto con la Ley de Ohm como parte dfel proceso analítico para medir las corrientes en los nodos de un circuito.
+- Comprender el funcionamiento de un circuito lineal que contempla dos o más fuentes de voltaje en razón de buscar los amperajes en cada rama.
+- Analizar las resistencias del circuito para verificar cuando tiene un corto y cuando el circuito se convierte en un circuito abierto y así realizar el método de superposición para el análisis de nodos.
 
 ### 2.  MARCO TEORICO
 
@@ -28,7 +34,7 @@ Un nodo es el punto de unión de dos o más elementos.
 3.3 **MATERIAL Y EQUIPO REQUERIDO**
 
 |**CANTIDAD**| **MATERIAL O EQUIPO**|
-|:---: | :---: 
+|:---: | :---: |
 | 1 | Fuente de voltaje de C.D |
 | 1 | Multimetro digital |
 | 1 | Resistor de 1.8 kΩ |
@@ -71,9 +77,9 @@ Tabla 3.1
 
 |**NODO**| **RESULTADOS ANALITICOS** | **RESULTADOS SIMULADORES**|
 |:--: | :---: | :---: | 
-| 1   |       |11.3 V  |
-| 2   |       | 3.39 V |
-|  3  |       | 3.89 V  | 
+|  1  |       | 11.3 V |
+|  2  |       | 3.39 V |
+|  3  |       | 3.89 V | 
 
 
 ### 5.  VIDEO
