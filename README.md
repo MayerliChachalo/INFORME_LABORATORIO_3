@@ -86,6 +86,10 @@ Tabla 3.1
 
 ### 6.  CONCLUCIONES 
 
+- El método de superposición a pesar de ser extenso es un método efectivo para poder encontrar los amperajes en cada nodo o así mismo en cada rama del circuito y a partir de eso encontrar los voltajes mediante la Ley de Ohm.
+- La aplicación del método de superposición es esencial para el análisis de nodos ya que existe una relación lineal entre corrientes y tensiones. 
+- Se concluye que el método de anáslisis impartido en clase y aplicado en el laboratorio será de gran utilidad en posteriores aplicaciones prácticas.
+
 ### 7.  BIBLIOGRAFÍA
 
 
