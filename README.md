@@ -17,6 +17,8 @@ Comprobar experimental y analíticamente el análisis de nodosd en los diferente
 
 ### 2.  MARCO TEORICO
 
+![image](https://user-images.githubusercontent.com/85209614/122558049-38b81700-d003-11eb-9bf7-b04ec3730e8a.png)
+
 ### 3.  EXPLICACION DEL PROCEDIMIENTO 
 
 3.1 **REQUISITOS PREVIOS**
@@ -91,8 +93,7 @@ Tabla 3.1
 - Se concluye que el método de anáslisis impartido en clase y aplicado en el laboratorio será de gran utilidad en posteriores aplicaciones prácticas.
 
 ### 7.  BIBLIOGRAFÍA
-
-
+▷ CIRCUITOS ELÉCTRICOS :【ANALISIS DE NODOS】. (2021). Retrieved 18 June 2021, from https://sensoricx.com/circuitos-electricos-dc/analisis-de-circuitos-empleando-nodos/
 
 
 
