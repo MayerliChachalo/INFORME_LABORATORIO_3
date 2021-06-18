@@ -62,6 +62,8 @@ Un nodo es el punto de unión de dos o más elementos.
 
 ![image](https://user-images.githubusercontent.com/75383758/122564041-8ab06b00-d00a-11eb-80bc-d77e08539a16.png)
 
+![image](https://user-images.githubusercontent.com/75383758/122564486-06121c80-d00b-11eb-8945-72ac50e15db8.png)
+
 3.5.3. Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito
 de la figura 3.1, obteniendo los valores de los voltajes de nodo. Anote los resultados en la tabla 3.1.
 
