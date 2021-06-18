@@ -73,9 +73,6 @@ de la figura 3.1, obteniendo los valores de los voltajes de nodo. Anote los resu
 
 ![image](https://user-images.githubusercontent.com/75383758/122559513-0effef80-d005-11eb-9977-8db3a41b6258.png)
 
-corriente
-
-![image](https://user-images.githubusercontent.com/85126275/122105576-91f33100-cdde-11eb-9edb-fea0d07e7782.png)
 
 3.5.4. Compare los valores de la tabla 3.1 y realice sus conclusiones.
 
