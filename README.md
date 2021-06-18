@@ -67,7 +67,7 @@ de la figura 3.1, obteniendo los valores de los voltajes de nodo. Anote los resu
 
 **voltaje** 
 
-![image](https://user-images.githubusercontent.com/85126275/122120885-958fb380-cdf0-11eb-9305-a32fb0dafdc2.png)
+![image](https://user-images.githubusercontent.com/75383758/122559513-0effef80-d005-11eb-9977-8db3a41b6258.png)
 
 corriente
 
