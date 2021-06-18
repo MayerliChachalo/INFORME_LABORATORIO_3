@@ -60,6 +60,8 @@ Un nodo es el punto de unión de dos o más elementos.
 
 ![image](https://user-images.githubusercontent.com/75383758/122562130-5471ec00-d008-11eb-8c61-bc824708accd.png)
 
+![image](https://user-images.githubusercontent.com/75383758/122564041-8ab06b00-d00a-11eb-80bc-d77e08539a16.png)
+
 3.5.3. Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito
 de la figura 3.1, obteniendo los valores de los voltajes de nodo. Anote los resultados en la tabla 3.1.
 
@@ -73,15 +75,15 @@ de la figura 3.1, obteniendo los valores de los voltajes de nodo. Anote los resu
 
 ![image](https://user-images.githubusercontent.com/75383758/122559513-0effef80-d005-11eb-9977-8db3a41b6258.png)
 
-
 3.5.4. Compare los valores de la tabla 3.1 y realice sus conclusiones.
 
 Tabla 3.1 
 
-|**NODO**| **RESULTADOS ANALITICOS** | **RESULTADOS SIMULADORES**|
-|:--: | :---: | :---: | 
-|  1  | 2.820 V | 2.82 V |
-|  2  | 4.802 V | 4.80 V |
+|**NODO**| **RESULTADOS ANALITICOS** | **RESULTADOS SIMULADORES** | **% ERROR** |
+|:--: | :---: | :---: | :---: |
+|  1  | 2.820 V | 2.82 V | 0% error |
+|  2  | 4.802 V | 4.80 V | 0.04% error |
+| ∑ V | 7.622 V | 7.62 V | ∑ %error = 0.04% |
 
 ### 5.  VIDEO
 
