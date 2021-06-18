@@ -86,8 +86,6 @@ Tabla 3.1
 |  1  | 2.820 V | 2.82 V |
 |  2  | 4.802 V | 4.80 V |
 
-
-
 ### 5.  VIDEO
 
 ### 6.  CONCLUCIONES 
