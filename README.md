@@ -87,6 +87,8 @@ Tabla 3.1
 
 ### 5.  VIDEO
 
+https://youtu.be/r7bInIeMtCs
+
 ### 6.  CONCLUCIONES 
 
 - El método de superposición a pesar de ser extenso es un método efectivo para poder encontrar los amperajes en cada nodo o así mismo en cada rama del circuito y a partir de eso encontrar los voltajes mediante la Ley de Ohm.
